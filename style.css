@@ -200,106 +200,98 @@ span {
   color: lightgray;
 }
 /* the-latest-deals style end */
+
 /* visit shop style */
-.visit-shop-container{
+.visit-shop-container {
   height: 75vh;
   background-image: url("./Flower\ Asset/h1-bg6.png");
   background-color: #fcf2f5;
   margin-top: 100px;
   display: flex;
   align-items: center;
-  
-
 }
 
-.visit-shop-images{
+.visit-shop-images {
   display: flex;
 }
 
-
-#visit-shop-img1{
+#visit-shop-img1 {
   width: 900px;
   height: 700px;
   border-radius: 0px 300px 0px 0px;
 }
-#visit-shop-img2{
+#visit-shop-img2 {
   width: 400px;
   height: 600px;
   border-radius: 300px 300px 0px 0px;
   margin: 50px 0px 20px -220px;
 }
-.visit-shop-article-area{
+.visit-shop-article-area {
   padding: 80px 0px 20px 80px;
-
 }
-.visit-shop-article-contact{
+.visit-shop-article-contact {
   display: flex;
   gap: 200px;
   margin: auto;
   align-items: center;
 }
-.visit-shop-title{
- padding: 80px 0px 80px 0px;
- font-size: 40px;
- font-weight: 400;
-
+.visit-shop-title {
+  padding: 80px 0px 80px 0px;
+  font-size: 40px;
+  font-weight: 400;
 }
-.visit-shop-address-area{
+.visit-shop-address-area {
   padding: 20px;
   font-size: 20px;
   font-weight: 400;
   color: #313131;
-  
 }
-.visit-shop-rosaa{
+.visit-shop-rosaa {
   padding-bottom: 20px;
   color: rgb(224, 105, 131);
   font-size: 25px;
-
 }
-.visit-shop-contact-info{
+.visit-shop-contact-info {
   padding: 20px;
   font-size: 20px;
   font-weight: 400;
   color: #313131;
-  
 }
-i{
+i {
   padding-right: 20px;
   color: rgb(105, 105, 105);
 }
-.map-button{
+.map-button {
   margin-top: 20px;
   font-size: 20px;
 }
+/* visit shop style end*/
+
 /* footer-container style start */
-.footer-container{
+.footer-container {
   height: 50vh;
   background-color: #111010;
   margin-top: 100px;
   display: flex;
-  
 }
-.footer-article{
+.footer-article {
   color: #f7f7f7;
   text-align: center;
   align-items: center;
   margin: auto;
 }
-.footer-title{
-font-size: 48px;
-font-weight: 800;
-
+.footer-title {
+  font-size: 48px;
+  font-weight: 800;
 }
-.footer-description{
-color: rgba(255, 255, 255, 0.90);
-text-align: center;
-font-size: 18px;
-font-weight: 400;
-padding: 30px 0px;
-
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 30px 0px;
 }
-small{
+small {
   padding: 20px;
   color: rgba(255, 255, 255, 0.4);
   font-size: 15px;
