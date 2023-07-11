@@ -234,8 +234,9 @@ span {
 }
 .visit-shop-article-contact{
   display: flex;
-  gap: 300px;
+  gap: 200px;
   margin: auto;
+  align-items: center;
 }
 .visit-shop-title{
  padding: 80px 0px 80px 0px;
@@ -248,6 +249,28 @@ span {
   font-size: 20px;
   font-weight: 400;
   color: #313131;
+  
+}
+.visit-shop-rosaa{
+  padding-bottom: 20px;
+  color: rgb(224, 105, 131);
+  font-size: 25px;
+
+}
+.visit-shop-contact-info{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #313131;
+  
+}
+i{
+  padding-right: 20px;
+  color: rgb(105, 105, 105);
+}
+.map-button{
+  margin-top: 20px;
+  font-size: 20px;
 }
 /* footer-container style start */
 .footer-container{
