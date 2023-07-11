@@ -143,17 +143,17 @@ span {
   font-size: 40px;
   font-weight: 800;
 }
-.instagram-description{
-color: rgba(39, 39, 39, 0.60);
-font-size: 20px;
-font-weight: 400;
-text-align: center;
-padding: 20px;
+.instagram-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  padding: 20px;
 }
 /* instagram style end*/
 
 /* multiple flower style start*/
-.multiple-flower-container{
+.multiple-flower-container {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -161,3 +161,42 @@ padding: 20px;
   gap: 20px;
 }
 /* multiple flower style end*/
+
+/* the-latest-deals style start */
+.the-latest-deals {
+  width: 75%;
+  height: 300px;
+  border-radius: 8px;
+  background: url('./Flower\ Asset/Rectangle\ 9.png'), #858282 0px -203.444px / 100% 213.755% no-repeat;
+  margin: auto;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.the-latest-deals-article-area{
+  align-items: center;
+  text-align: center;
+  padding: 100px 0px;
+}
+.the-latest-deals-title{
+  color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.the-latest-deals-description{
+  color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 30px;
+}
+.input-place{
+  width: 40%;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 8px;
+  border: none;
+ color: lightgray;
+}
+/* the-latest-deals style end */
