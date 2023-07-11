@@ -200,7 +200,55 @@ span {
   color: lightgray;
 }
 /* the-latest-deals style end */
+/* visit shop style */
+.visit-shop-container{
+  height: 75vh;
+  background-image: url("./Flower\ Asset/h1-bg6.png");
+  background-color: #fcf2f5;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  
 
+}
+
+.visit-shop-images{
+  display: flex;
+}
+
+
+#visit-shop-img1{
+  width: 900px;
+  height: 700px;
+  border-radius: 0px 300px 0px 0px;
+}
+#visit-shop-img2{
+  width: 400px;
+  height: 600px;
+  border-radius: 300px 300px 0px 0px;
+  margin: 50px 0px 20px -220px;
+}
+.visit-shop-article-area{
+  padding: 80px 0px 20px 80px;
+
+}
+.visit-shop-article-contact{
+  display: flex;
+  gap: 300px;
+  margin: auto;
+}
+.visit-shop-title{
+ padding: 80px 0px 80px 0px;
+ font-size: 40px;
+ font-weight: 400;
+
+}
+.visit-shop-address-area{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #313131;
+}
 /* footer-container style start */
 .footer-container{
   height: 50vh;
