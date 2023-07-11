@@ -151,3 +151,13 @@ text-align: center;
 padding: 20px;
 }
 /* instagram style end*/
+
+/* multiple flower style start*/
+.multiple-flower-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+  gap: 20px;
+}
+/* multiple flower style end*/
