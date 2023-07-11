@@ -61,3 +61,46 @@
   padding: 20px;
 }
 /* flower-featured-text-container style end */
+
+/* tree-flower-style-start */
+
+.tree-flower-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+
+.tree-flower-item {
+  width: 400px;
+  height: 430px;
+  padding-top: 120px;
+  background-color: rgba(167, 33, 98, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  align-items: center;
+}
+#tree-anchor {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  font-size: 30px;
+  color: black;
+}
+.position{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 30px;
+    color: black;
+}
+#tree-position{
+    margin-top: -40px;
+    
+}
+.tree-background-color3{
+  background-color: rgba(71, 125, 17, 0.15);
+}
+.tree-background-color2{
+  background-color: rgba(5, 151, 160, 0.15);
+}
